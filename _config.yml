@@ -2,7 +2,7 @@
 title: Flagon With The Dragon
 description: 'The brew that is true...'
 url: 'http://www.flagonwiththedragon.com'
-baseurl: '/'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
