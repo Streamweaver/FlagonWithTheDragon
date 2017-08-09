@@ -1,0 +1,39 @@
+# Site settings
+title: Flagon With The Dragon
+description: 'The brew that is true...'
+url: 'http://www.flagonwiththedragon.com'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Scott Turnbull'
+  email: streamweaver@gmail.com
+  twitter_username: streamweaver
+  facebook_username: scott.turnbull.33
+  github_username:  streamweaver
+  linkedin_username:  scott-turnbull-b2b01b8
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png', 'docker-compose.yml']
