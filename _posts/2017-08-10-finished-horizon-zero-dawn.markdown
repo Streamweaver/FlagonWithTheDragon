@@ -2,6 +2,8 @@
 layout: post
 title: "Finished Horizon Zero Dawn"
 date: "2017-08-10 00:12:34 -0400"
+categories: [gaming]
+tags: [gaming]
 ---
 Over the last few weeks I finished up [Horizon Zero Dawn](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/){:target="_blank"} on the PS4 and have to say that it was a darn fine game.   I'd put it below games like Last of Us but above a game like Farcry.  
 
