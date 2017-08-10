@@ -4,7 +4,7 @@ description: 'The brew that is true...'
 url: 'http://flagonwiththedragon.com'
 baseurl: ''
 google_analytics: 'UA-16216162-1'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'flagonwiththedragon'
 
 author:
   name: 'Scott Turnbull'
