@@ -1,10 +1,9 @@
+# project
 _site
 .sass-cache
-.jekyll-metadata
-*.sublime-project
-*.sublime-workspace
+.vagrant
+
+# general
 .DS_Store
-/.bundle
-Gemfile.lock
-/vendor
-.idea/*
+Thumbs.db
+ehthumbs.db
