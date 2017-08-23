@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting Up Bootstrap Sass with Angular
-categories: [coding]
+categories: [tech]
 tags: [coding, angular, bootstrap]
 ---
 
