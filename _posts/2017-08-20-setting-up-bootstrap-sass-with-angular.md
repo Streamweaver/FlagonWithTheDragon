@@ -4,9 +4,6 @@ title: Setting Up Bootstrap Sass with Angular
 categories: [tech]
 tags: [coding, angular, bootstrap]
 ---
-
-## Bootstrap SASS Install
-
 I had a tremendously difficult time getting bootstrap to work under sass and no single set of install directions worked for me so I wanted to capture the process I finally got to work here.  First, as of this writing, I couldn't get bootstrap 4 with sass to work after a very long time trying.  I kept getting popper.js errors and the nav just never worked so I backed out and went with bootstrap 4.  As of this writing bootstrap is at version 4.0.0.6-beta which may explain some of the problems.
 
 ### Dependencies
