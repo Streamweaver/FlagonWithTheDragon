@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Initial Logitech Brio 4k Experiences"
-date: "2017-08-10 00:12:34 -0400"
+date: "2017-08-23 00:12:34 -0400"
 categories: [tech]
 tags: [video]
 ---
