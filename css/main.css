@@ -96,6 +96,20 @@ img {
 
 /* --- Navbar --- */
 
+#main-navbar a {
+  color: #404040;
+}
+
+#main-navbar a:hover,
+#main-navbar a:focus {
+  color: #0085a1;
+}
+
+#main-navbar .list-inline {
+  margin: 0;
+  padding: 5px 5px;
+}
+
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
@@ -747,4 +761,34 @@ color: #f1c40f;
 
 .gist, .gist-file table tr td {
   border: unset;
+}
+
+/* 404 Canvas Dots */
+canvas .dots {  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0; }
+
+#canvas-overlay {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+#canvas-overlay canvas, #overlay {
+  position: absolute;
+}
+
+#overlay {
+  top: 150px;
+  z-index: 2;
+  width:400px;
+  margin-left:-200px;
+  left:50%;
 }
